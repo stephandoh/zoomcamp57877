@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Notes
+notes.txt
+Teranotes.txt
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.crash.log
+.terraform.lock.hcl
+
+# Key files
+solar-router-483810-s0-ed83e3d054aa.json
+
+# Jupyter notebooks
+.ipynb_checkpoints/
