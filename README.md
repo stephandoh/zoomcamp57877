@@ -16,7 +16,6 @@ The homework focuses on **Docker, SQL, and Terraform**, covering environment set
 ---
 
 ## Docker
-[pic]
 ### Question 1: Understanding Docker images
 
 Run a Python container using:
